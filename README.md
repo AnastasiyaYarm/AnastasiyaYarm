@@ -1,4 +1,6 @@
-![textanim-EgcSx](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/ee80694b-6dce-46ed-a152-bfd12b56c135)
+<div align="center"> 
+  
+  ![textanim-EgcSx](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/ee80694b-6dce-46ed-a152-bfd12b56c135)
 
 
 ![textanim-5XFiG](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/d928941e-8627-4ed3-a0fb-92e4c7f05daa)
