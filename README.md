@@ -7,7 +7,7 @@
 ![2ae324717109a9e6a67017f43c4fcbf5](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/61c79a8b-44ca-4c5a-a485-261db9866004)
 
 
-![textanim-CftIG](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/aec21741-4be1-4a42-94e5-6d479d9a4b3d)
+## Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -28,3 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
 </div>
+
+
+## About me👋🏾 👩🏾‍💻
+I'm a QA Engineer with experience in both Automation and Manual Testing. Team player who is on a mission to help companies ensure the quality process to achieve the highest results quickly and efficiently.  As an inquisitive and enthusiastic person, I love to learn and discover new information in the field of technology. And to be in the resource, I get inspired from traveling to countries and cities (13 countries, 25 cities), reading fiction literature, spending time with my family by playing board games and love my pets
+
+## Find me around the web 🌎: 
