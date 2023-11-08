@@ -34,7 +34,4 @@
 I'm a QA Engineer with experience in both Automation and Manual Testing. Team player who is on a mission to help companies ensure the quality process to achieve the highest results quickly and efficiently.  As an inquisitive and enthusiastic person, I love to learn and discover new information in the field of technology. And to be in the resource, I get inspired from traveling to countries and cities (13 countries, 25 cities), reading fiction literature, spending time with my family by playing board games and love my pets 
 
 ## My LinkedIn profile 🌎:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/anastasiya-yarmashchuk/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"/>
-  </a>
+[![Linkedin Badge](https://img.shields.io/badge/-AnastasiyaYarm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-yarmashchuk/)
