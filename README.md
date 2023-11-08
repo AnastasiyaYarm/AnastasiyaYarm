@@ -1,6 +1,12 @@
 ![textanim-EgcSx](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/ee80694b-6dce-46ed-a152-bfd12b56c135)
 
-I'm QA Software Engineer with experience in QA Automation and Manual Testing 
+
+
+![textanim-5XFiG](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/d928941e-8627-4ed3-a0fb-92e4c7f05daa)
+
+
+
+
 
 
 
@@ -9,17 +15,6 @@ I'm QA Software Engineer with experience in QA Automation and Manual Testing
 
 
 
+![textanim-CftIG](https://github.com/AnastasiyaYarm/AnastasiyaYarm/assets/148359221/aec21741-4be1-4a42-94e5-6d479d9a4b3d)
 
-**AnastasiyaYarm/AnastasiyaYarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
